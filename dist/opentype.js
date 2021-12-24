@@ -3503,6 +3503,8 @@
 	        }
 	    }
 
+        p.character = this.name;
+        p.unicode = this.unicode;
 	    return p;
 	};
 
